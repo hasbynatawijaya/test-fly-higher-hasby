@@ -17,7 +17,7 @@ const StyledInput = styled(OutlinedInput, {
     border: "0px",
 
     "& svg": {
-      color: variant === "dark" ? "#ffffff" : "#f9f9f9",
+      color: variant === "dark" ? "#ffffff" : "grey",
     },
   },
 }));
