@@ -51,7 +51,6 @@ const FormWrapper = styled("div", {
   backgroundColor: "transparent",
   position: "relative",
   width: "100%",
-  height: "100%",
   maxWidth: 450,
   overflow: isMdDown ? "auto" : "hidden",
 }));
